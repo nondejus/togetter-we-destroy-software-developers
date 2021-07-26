@@ -1,1 +1,0 @@
-# togetter-we-destroy-software-developers
